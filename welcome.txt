@@ -4,3 +4,4 @@ Jsp pages
 CSS
 Spring Boot
 thymeleaf
+spring JPA
