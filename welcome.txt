@@ -3,5 +3,9 @@ spring mvc with hibernate
 Jsp pages
 CSS
 Spring Boot
+
 thymeleaf
 spring JPA
+
+Spring Rest
+
