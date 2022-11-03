@@ -1,2 +1,4 @@
 welcome to spring project
 spring mvc with hibernate
+Jsp pages
+CSS
